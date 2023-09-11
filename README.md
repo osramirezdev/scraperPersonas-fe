@@ -1,9 +1,9 @@
 # React + TypeScript + Vite
 
 <p align="center">
-  <a target="_blank" href="http://apiscraper.yocreativo.com/swagger">
+  <a target="_blank" href="http://scraperpersonas.yocreativo.com/">
     <picture>
-      <source height="350" media="(prefers-color-scheme: dark)" srcset="scraperlogo.png">
+      <source height="350" media="(prefers-color-scheme: dark)" srcset="src/assets/scraperlogo.png">
       <img height="350" alt="Scraper Perosnas" src="src/assets/scraperlogo.png">
     </picture>
   </a>
@@ -20,7 +20,7 @@
 </p>
 
 ## [API Demo](http://apiscraper.yocreativo.com/swagger)
-## [Client Demo](http://scraperpersonas.yocreativo.com/swagger)
+## [Client Demo](http://scraperpersonas.yocreativo.com/)
 <br>
 
 ## 🚀 Usage
